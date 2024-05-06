@@ -65,4 +65,4 @@ with the field being the field that you want to input.
 
 The license for this project is under the Mozilla Public License Version 2.0.
 
-The license can be located ![here](https://github.com/de-y/DynamicDB/LICENSE)
+The license can be located ![here](https://github.com/de-y/DynamicDB/blob/main/LICENSE)
